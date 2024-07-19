@@ -1,6 +1,7 @@
 # InstacartGroceryAnalysis
 Uncovering meaningful  insights from Instacart sales data to refine their market segmentation strategies by conducting thorough exploratory analysis with Python.
-# Instacart Grocery Basket Analysis
+ ![INstacart](https://github.com/user-attachments/assets/b1dcdf78-6891-4b1b-b2a5-a58e5f543577)
+ # Instacart Grocery Basket Analysis
 
 **Objective**:Instacart is an online grocery store that has already very good sales, but their marketing and sales team want to uncover more information about their sales patterns. My task as a Data Analyst is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
@@ -28,6 +29,6 @@ The project files are stored in following folder structure:
 - Data: Separated into two subfolders Original Data which contain the original data frames and Prepared Data contain the data frames after they have been cleaned and prepared for analysis. (Data files not uploaded to GitHub due to size limitations.)
 - Project Management:  Contains the project brief
 - Scripts: Jupyter notebooks contains coding for the analysis
-- Sent to Client: [Final report] presented in Excel
+- Sent to Client: [Final report](https://github.com/Sreelakshmi-Hub/InstacartGroceryAnalysis/blob/main/Sent%20to%20client/Instacart_Final_Report.xlsx) presented in Excel
 
   
