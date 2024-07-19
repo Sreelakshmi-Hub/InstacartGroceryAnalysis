@@ -5,7 +5,7 @@ Uncovering meaningful  insights from Instacart sales data to refine their market
 
 **Objective**:Instacart is an online grocery store that has already very good sales, but their marketing and sales team want to uncover more information about their sales patterns. My task as a Data Analyst is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
-## Key Questions:
+## Key Questions
 - What are the busiest days and times with most orders?
 - Are there particular times of the day when people spend the most money?
 - How can product price ranges improve marketing strategies?
